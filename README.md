@@ -5,3 +5,4 @@ Name and idea inspired by [ashleygwilliams](https://github.com/ashleygwilliams/b
 ### november 2015
 
 - ["Hello, Declarative World"](http://www.infoq.com/presentations/declarative-programming) by Tom Stuart
+- ["The Concert Programmer"](https://www.youtube.com/watch?v=yY1FSsUV-8c) by Andrew Sorensen
