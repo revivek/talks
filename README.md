@@ -7,3 +7,4 @@ Name and idea inspired by [ashleygwilliams](https://github.com/ashleygwilliams/b
 - ["Hello, Declarative World"](http://www.infoq.com/presentations/declarative-programming) by Tom Stuart
 - ["The Concert Programmer"](https://www.youtube.com/watch?v=yY1FSsUV-8c) by Andrew Sorensen
 - ["Live React: Hot Reloading with Time Travel"](https://www.youtube.com/watch?v=xsSnOQynTHs) by Dan Abramov
+- ["Unconventional Programming with Chemical Computing"](https://www.youtube.com/watch?v=cHoYNStQOEc) by Carin Meier
