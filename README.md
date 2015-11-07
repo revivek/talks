@@ -8,3 +8,4 @@ Name and idea inspired by [ashleygwilliams](https://github.com/ashleygwilliams/b
 - ["The Concert Programmer"](https://www.youtube.com/watch?v=yY1FSsUV-8c) by Andrew Sorensen
 - ["Live React: Hot Reloading with Time Travel"](https://www.youtube.com/watch?v=xsSnOQynTHs) by Dan Abramov
 - ["Unconventional Programming with Chemical Computing"](https://www.youtube.com/watch?v=cHoYNStQOEc) by Carin Meier
+- ["Principles of Lighting and Rendering"](https://www.youtube.com/watch?v=IyUgHPs86XM) by John Carmack
