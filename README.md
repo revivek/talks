@@ -9,3 +9,4 @@ Name and idea inspired by [ashleygwilliams](https://github.com/ashleygwilliams/b
 - ["Live React: Hot Reloading with Time Travel"](https://www.youtube.com/watch?v=xsSnOQynTHs) by Dan Abramov
 - ["Unconventional Programming with Chemical Computing"](https://www.youtube.com/watch?v=cHoYNStQOEc) by Carin Meier
 - ["Principles of Lighting and Rendering"](https://www.youtube.com/watch?v=IyUgHPs86XM) by John Carmack
+- ["Controlling Time and Space: understanding the many formulations of FRP"](https://www.youtube.com/watch?v=Agu6jipKfYw) by Evan Czaplicki
