@@ -12,3 +12,4 @@
 - ["Controlling Time and Space: understanding the many formulations of FRP"](https://www.youtube.com/watch?v=Agu6jipKfYw) by Evan Czaplicki
 - ["Go Concurrency Patterns"](http://youtu.be/f6kdp27TYZs) by Rob Pike
 - ["Bottom Up vs Top Down Design in Clojure"](http://youtu.be/Tb823aqgX_0) by Mark Bastian
+- ["The Rust language: memory, ownership, and lifetimes"](http://youtu.be/9wOzjbgRoNU) by Nicholas Matsakis
