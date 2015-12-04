@@ -13,3 +13,7 @@
 - ["Go Concurrency Patterns"](http://youtu.be/f6kdp27TYZs) by Rob Pike
 - ["Bottom Up vs Top Down Design in Clojure"](http://youtu.be/Tb823aqgX_0) by Mark Bastian
 - ["The Rust language: memory, ownership, and lifetimes"](http://youtu.be/9wOzjbgRoNU) by Nicholas Matsakis
+
+### december 2015
+
+- ["Large-scale cluster management at Google with Borg"](http://youtu.be/7MwxA4Fj2l4)
