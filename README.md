@@ -1,6 +1,6 @@
 # talks
 
-**Compilation of thought-provoking or interesting talks I come across.** Idea inspired by `breakfast-repo` by [ashleygwilliams](https://github.com/ashleygwilliams/breakfast-repo). From the README there: "a collection of videos, recordings, and podcasts to accompany our morning coffee."
+**Compilation talks I come across and enjoy.** Idea inspired by `breakfast-repo` by [ashleygwilliams](https://github.com/ashleygwilliams/breakfast-repo). From the README there: "a collection of videos, recordings, and podcasts to accompany our morning coffee."
 
 ### november 2015
 
