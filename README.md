@@ -17,3 +17,4 @@
 ### december 2015
 
 - ["Large-scale cluster management at Google with Borg"](http://youtu.be/7MwxA4Fj2l4)
+- [](http://youtu.be/xJFqqxxtbRY) by Drew Endy
