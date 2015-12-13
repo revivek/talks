@@ -19,3 +19,4 @@
 - [Large-scale cluster management at Google with Borg](http://youtu.be/7MwxA4Fj2l4)
 - [Programming DNA](http://youtu.be/xJFqqxxtbRY) by Drew Endy
 - [Unikernels](https://www.youtube.com/watch?v=zi2TdMXs7Cc) by Amir Chaudhry
+- [Property-Based Testing for Better Code](https://www.youtube.com/watch?v=shngiiBfD80) by Jessica Kerr
