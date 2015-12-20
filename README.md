@@ -20,3 +20,4 @@
 - [Programming DNA](http://youtu.be/xJFqqxxtbRY) by Drew Endy
 - [Unikernels](https://www.youtube.com/watch?v=zi2TdMXs7Cc) by Amir Chaudhry
 - [Property-Based Testing for Better Code](https://www.youtube.com/watch?v=shngiiBfD80) by Jessica Kerr
+- [Computer Heuristics](https://www.youtube.com/watch?v=EKWGGDXe5MA) by Richard Feynman
