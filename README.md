@@ -5,6 +5,7 @@
 ### january 2016
 
 - [The Swarm is Coming](https://www.youtube.com/watch?v=zTNjOl6kjm0) by Vijay Kumar
+- [Kathy Sierra, XOXO Festival](https://www.youtube.com/watch?v=Gyv-l0MWRQI)
 
 ### december 2015
 
