@@ -2,6 +2,10 @@
 
 **Compilation of talks I come across and enjoy.** Idea inspired by `breakfast-repo` by [ashleygwilliams](https://github.com/ashleygwilliams/breakfast-repo). From the README there: "a collection of videos, recordings, and podcasts to accompany our morning coffee."
 
+### february 2016
+
+- [Let's be mainstream! User focused design in Elm](https://www.youtube.com/watch?v=oYk8CKH7OhE) by Evan Czaplicki
+
 ### january 2016
 
 - [The Swarm is Coming](https://www.youtube.com/watch?v=zTNjOl6kjm0) by Vijay Kumar
