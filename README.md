@@ -5,6 +5,7 @@
 ### february 2016
 
 - [Let's be mainstream! User focused design in Elm](https://www.youtube.com/watch?v=oYk8CKH7OhE) by Evan Czaplicki
+- [First Do No Harm: Surgical Refactoring](http://youtu.be/w6n9YR3o-7Q) by Nell Shamrell-Harrington
 
 ### january 2016
 
