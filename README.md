@@ -2,6 +2,10 @@
 
 **Compilation of talks I come across and enjoy.** Idea inspired by `breakfast-repo` by [ashleygwilliams](https://github.com/ashleygwilliams/breakfast-repo). From the README there: "a collection of videos, recordings, and podcasts to accompany our morning coffee."
 
+### march 2016
+
+- [Applying the Saga Pattern](https://www.youtube.com/watch?v=xDuwrtwYHu8) by Caitie McCaffrey
+
 ### february 2016
 
 - [Let's be mainstream! User focused design in Elm](https://www.youtube.com/watch?v=oYk8CKH7OhE) by Evan Czaplicki
