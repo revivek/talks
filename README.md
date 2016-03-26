@@ -5,6 +5,7 @@
 ### march 2016
 
 - [Applying the Saga Pattern](https://www.youtube.com/watch?v=xDuwrtwYHu8) by Caitie McCaffrey
+- [Deep Learning for Building Intelligent Systems](https://youtu.be/QSaZGT4-6EY) by Jeff Dean
 
 ### february 2016
 
