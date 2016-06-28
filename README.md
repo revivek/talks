@@ -2,6 +2,10 @@
 
 **Compilation of talks I come across and enjoy.** Idea inspired by `breakfast-repo` by [ashleygwilliams](https://github.com/ashleygwilliams/breakfast-repo). From the README there: "a collection of videos, recordings, and podcasts to accompany our morning coffee."
 
+### june 2016
+
+- [On the Spectrum of Abstraction](https://youtu.be/mVVNJKv9esE) by Cheng Lou
+
 ### may 2016
 
 - [V8, modern JavaScript, and beyond](https://youtu.be/N1swY14jiKc) by Seth Thompson
