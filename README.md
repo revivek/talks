@@ -7,6 +7,7 @@
 - [Agility & Robustness: Clojure spec](https://www.youtube.com/watch?v=VNTQ-M_uSo8) by Stuart Halloway
 - [Is It A Bug Or Is It A Story?](https://www.youtube.com/watch?v=sMy4L-J6fFs) by Nicola Hughes
 - [GraphQL: Designing a Data Language](https://www.youtube.com/watch?v=Oh5oC98ztvI) by Lee Byron
+- [Exotic Functional Data Structures: Hitchhiker Trees](https://www.youtube.com/watch?v=jdn617M3-P4) by David Greenberg
 
 ### july 2016
 
