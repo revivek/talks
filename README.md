@@ -2,6 +2,12 @@
 
 **Compilation of talks I come across and enjoy.** Idea inspired by `breakfast-repo` by [ashleygwilliams](https://github.com/ashleygwilliams/breakfast-repo). From the README there: "a collection of videos, recordings, and podcasts to accompany our morning coffee."
 
+### nov 2019
+
+- [Performance Matters](https://www.youtube.com/watch?v=r-TLSBdHe1A) by Emery Berger
+- [Uptime 15,364 days - The Computers of Voyager](https://www.youtube.com/watch?v=H62hZJVqs2o) by Aaron Cummings
+- [Probabilistic scripts for automating common-sense tasks]() by Alexander Lew
+
 ### oct 2016
 
 - [Agility & Robustness: Clojure spec](https://www.youtube.com/watch?v=VNTQ-M_uSo8) by Stuart Halloway
