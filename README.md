@@ -5,9 +5,9 @@
 ### nov 2019
 
 - [Performance Matters](https://www.youtube.com/watch?v=r-TLSBdHe1A) by Emery Berger
-- [Uptime 15,364 days - The Computers of Voyager](https://www.youtube.com/watch?v=H62hZJVqs2o) by Aaron Cummings
 - [Probabilistic scripts for automating common-sense tasks]() by Alexander Lew
 - [A Serverless Journey: AWS Lambda Under the Hood](https://www.youtube.com/watch?v=QdzV04T_kec)
+- [Lambda Calculus from the Ground Up](https://www.youtube.com/watch?v=pkCLMl0e_0k) by David Beazley
 
 ### oct 2016
 
